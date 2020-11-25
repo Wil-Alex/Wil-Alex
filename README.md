@@ -1,16 +1,27 @@
-### Hi there 👋
+[![Imagen cabecera](./img/id.jpg)](https://github.com/Wil-Alex)
 
-<!--
-**Wil-Alex/Wil-Alex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  👍 Bienvenido 
 
-Here are some ideas to get you started:
+## 🖐 Me presento:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Hola! Soy  ***Alex W***
+
+Solo soy alguien más con amor por la tecnología, incansable aprendiz, en mente siempre mejorar y crecer. Con la meta personal de desarrollar una carrera profesional dentro del medio IT
+
+# 📌 Comparto una que otra cosa interesante en twitter 
+[![Boton twitter](./img/rs/follow.jpg)](https://twitter.com/WIL_ALEJANDRO)| 
+:---:|
+
+
+## 💪 Algunos de los proyectos y ejercicios que he realizado tienen que ver con:
+
+![habilidades](./img/imagenes_s/habilidades.png)
+
+## ✍ Aprendiendo actualmente:
+
+![aprendiendo](./img/imagenes_s/aprendiendo.png)
+
+## 👉 Por aprender 
+
+![por aprender](./img/imagenes_s/por.jpg)
+
