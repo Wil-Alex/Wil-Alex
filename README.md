@@ -6,7 +6,7 @@
 
 ¡Hola! ... Soy  ***Alex W***
 
-Solo soy alguien, con amor por la tecnología, incansable aprendiz, en mente siempre mejorar y crecer. Con la meta personal de desarrollar una carrera profesional dentro del medio IT
+Solo soy alguien con amor por la tecnología, incansable aprendiz, en mente siempre mejorar y crecer. Con la meta personal de desarrollar una carrera profesional dentro del medio IT
 
 ### 📌 Comparto una que otra cosa interesante en twitter 
 [![Boton twitter](./img/rs/follow.jpg)](https://twitter.com/WIL_ALEJANDRO)| 
