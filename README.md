@@ -23,7 +23,7 @@ Solo soy alguien con amor por la tecnología, incansable aprendiz, en mente siem
 
 ### 👉 Encaminado desde ya...  a aprender 
 
-![por aprender](./img/imagenes_s/por.jpg)
+![por aprender](./img/imagenes_s/por.png)
 
 
 ### ✔ Este readme pronto será actualizado 
